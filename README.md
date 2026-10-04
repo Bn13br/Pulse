@@ -111,9 +111,3 @@ Details of the algorithm and integration notes are in [`HAPTICS.md`](HAPTICS.md)
 
 *   [EvolutionX](https://evolution-x.org/): inspiration for the Pulse feature.
 *   Android `Visualizer` API: audio capture and FFT.
-
----
-
-### License
-
-Add your license here.
