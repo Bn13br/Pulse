@@ -111,3 +111,6 @@ Os detalhes do algoritmo e da integração estão em [`HAPTICS.md`](HAPTICS.md).
 
 *   [EvolutionX](https://evolution-x.org/): inspiração para o recurso Pulse.
 *   API `Visualizer` do Android: captura de áudio e FFT.
+
+*Código escrito 100% usando a inteligência artificial "Claude"*
+
