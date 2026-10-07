@@ -52,7 +52,7 @@ Ele escuta a **saída global de áudio** pela API `Visualizer` do Android, entã
 
 ### Compatibilidade
 
-Desenvolvido para **Android 13**. Outras versões não foram testadas.
+Desenvolvido para **Android 16**. Outras versões não foram testadas.
 
 > [!TIP]
 > Root **não é necessário**. Ele só é usado por um atalho opcional que concede permissões e ativa o serviço para você.
