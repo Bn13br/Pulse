@@ -52,7 +52,7 @@ It listens to the **global audio output** through Android's `Visualizer` API, so
 
 ### Compatibility
 
-Developed for **Android 13**. Other versions are untested.
+Developed for **Android 16**. Other versions are untested.
 
 > [!TIP]
 > Root is **not required**. It is only used by an optional shortcut that grants permissions and enables the service for you.
