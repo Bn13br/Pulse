@@ -56,7 +56,7 @@ It listens to the **global audio output** through Android's `Visualizer` API, so
 
 ### Compatibility
 
-Developed and tested on **Android 13**. The code uses the Android framework only (no external libraries), with checks for newer versions. Android 8.0 (API 26) or higher is recommended.
+Developed and tested on **Android 16**. The code uses the Android framework only (no external libraries), with checks for newer versions. Android 8.0 (API 26) or higher is recommended.
 
 > [!TIP]
 > Root is **not required**. It is only used by an optional shortcut that grants permissions and enables the service for you.
@@ -151,9 +151,3 @@ Details of the algorithm and integration notes are in [`HAPTICS.md`](HAPTICS.md)
 
 *   [EvolutionX](https://evolution-x.org/): inspiration for the Pulse feature.
 *   Android `Visualizer` API: audio capture and FFT.
-
----
-
-### License
-
-Add your license here.
