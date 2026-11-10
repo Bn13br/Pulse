@@ -217,7 +217,3 @@ Details of the vibration algorithm and integration notes are in [`HAPTICS.md`](H
 *   Android `MediaSession` API: access to the cover of the playing media.
 
 ---
-
-### License
-
-Add your license here.
