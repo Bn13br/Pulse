@@ -215,9 +215,3 @@ Os detalhes do algoritmo da vibração e da integração estão em [`HAPTICS.md`
 *   [EvolutionX](https://evolution-x.org/): inspiração para o recurso Pulse.
 *   API `Visualizer` do Android: captura de áudio e FFT.
 *   API `MediaSession` do Android: acesso à capa da mídia que está tocando.
-
----
-
-### Licença
-
-Adicione sua licença aqui.
