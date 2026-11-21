@@ -186,4 +186,4 @@ Details of the vibration algorithm and integration notes are in [`HAPTICS.md`](H
 
 ### License
 
-Add your license here.
+(LICENSE)
